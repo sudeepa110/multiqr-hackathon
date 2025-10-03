@@ -145,7 +145,7 @@ Decodes detected QR codes and classifies them by type.
    - `OUTPUT_DIR`: Path to `outputs` folder
 
 ### Stage 2 Configuration (`infer2.py`)
- - You find it at the end of the code in infer.py
+ - You find it at the end of the code in infer2.py
 
 ```python
 MODEL_PATH = r"D:\multiqr-hackaton\src\models\qr_detector\weights\best.pt"
