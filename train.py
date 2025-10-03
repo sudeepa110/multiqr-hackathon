@@ -13,7 +13,6 @@ def train_model():
     EPOCHS = 100
     BATCH_SIZE = 16
     IMG_SIZE = 640
-    PATIENCE = 20
 
     # ✅ Model and output
     PRETRAINED_MODEL = "yolov8n.pt"   # can be 'yolov8s.pt', etc.
@@ -35,7 +34,6 @@ def train_model():
         epochs=EPOCHS,
         batch=BATCH_SIZE,
         imgsz=IMG_SIZE,
-        patience=PATIENCE,
         name=MODEL_NAME,
         project=PROJECT_NAME,
         exist_ok=True
