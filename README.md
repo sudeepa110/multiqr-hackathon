@@ -84,7 +84,6 @@ DATA_YAML = "src/datasets/data.yaml"    # Dataset configuration path
 EPOCHS = 100                             # Training epochs
 BATCH_SIZE = 16                          # Batch size
 IMG_SIZE = 640                           # Training image size
-PATIENCE = 20                            # Early stopping patience
 PRETRAINED_MODEL = "yolov8n.pt"         # Pretrained model
 PROJECT_NAME = "src/models"              # Model save directory
 MODEL_NAME = "qr_detector"               # Model subfolder name
