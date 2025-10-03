@@ -1,0 +1,7 @@
+train: D:/multiqr-hackaton/src/datasets/QR_DS/train_images
+val: D:/multiqr-hackaton/src/datasets/QR_DS/valid_images
+test: D:/multiqr-hackaton/src/datasets/QR_DS/test_images
+
+nc: 1
+
+names: ['qr_codes']
