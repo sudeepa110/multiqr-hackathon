@@ -17,8 +17,6 @@ multiqr-hackathon/
 └── src/
     ├── models/                        # Model weights and outputs
     ├── datasets/                      # Dataset files
-    ├── utils/                         # Utility functions
-    └── __init__.py
 ```
 
 ## 🚀 Setup Instructions
@@ -120,10 +118,9 @@ Detects QR codes in images and generates bounding box predictions.
    - You find it at the end of the code in infer.py
 
 ```python
-MODEL_PATH = r"D:\multiqr-hackaton\src\models\qr_detector\weights\best.pt"
-INPUT_DIR = r"D:\multiqr-hackaton\src\datasets\QR_DS\test_images"
-OUTPUT_DIR = r"D:\multiqr-hackaton\outputs"
-SAVE_IMAGES = True
+MODEL_PATH = r"<path_to_your_model>\best.pt"
+INPUT_DIR  = r"<path_to_your_test_images>"
+OUTPUT_DIR = r"<path_to_save_outputs>"
 ```
 2. **Run detection:**
    ```bash
@@ -149,10 +146,9 @@ Decodes detected QR codes and classifies them by type.
  - You find it at the end of the code in infer2.py
 
 ```python
-MODEL_PATH = r"D:\multiqr-hackaton\src\models\qr_detector\weights\best.pt"
-INPUT_DIR = r"D:\multiqr-hackaton\src\datasets\QR_DS\test_images"
-OUTPUT_DIR = r"D:\multiqr-hackaton\outputs"
-SAVE_IMAGES = True
+MODEL_PATH = r"<path_to_your_model>\best.pt"
+INPUT_DIR  = r"<path_to_your_test_images>"
+OUTPUT_DIR = r"<path_to_save_outputs>"
 ```
 
 

@@ -112,9 +112,9 @@ def run_stage2(model_path, input_dir, output_file, save_images=False):
 # Main execution
 # -----------------------------
 if __name__ == "__main__":
-    MODEL_PATH = r"D:\multiqr-hackaton\src\models\qr_detector\weights\best.pt"
-    INPUT_DIR = r"D:\multiqr-hackaton\src\datasets\QR_DS\test_images"
-    OUTPUT_DIR = r"D:\multiqr-hackaton\outputs"
+    MODEL_PATH = r"<path_to_your_model>\best.pt"
+    INPUT_DIR  = r"<path_to_your_test_images>"
+    OUTPUT_DIR = r"<path_to_save_outputs>"
     SAVE_IMAGES = True
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
