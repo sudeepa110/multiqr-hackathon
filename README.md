@@ -51,7 +51,8 @@ pip install -r requirements.txt
 
 ### 3. Data Preparation
 
-Place your dataset folder (eg.`QR_DS`) inside the `src/datasets/` directory, then update the `data.yaml` file with correct paths:
+Place your dataset folder (eg.`QR_DS`) inside the `src/datasets/` directory, then update the `data.yaml` file with correct paths,i.e copy the paths of test_images,train_images,valid_ images placed in src/datasets/QR_DS and paste it in the data.yaml file:
+
 
 **Example `data.yaml`:**
 
@@ -63,7 +64,7 @@ train: /path/to/your/project/src/datasets/QR_DS/train_images/images
 val: /path/to/your/project/src/datasets/QR_DS/valid_images/images
 
 # Test images path
-test: /path/to/your/project/src/datasets/QR_DS/valid_images/images
+test: /path/to/your/project/src/datasets/QR_DS/test_images/images
 
 # Number of classes
 nc: 1

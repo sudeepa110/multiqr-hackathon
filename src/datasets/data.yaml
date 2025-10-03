@@ -1,6 +1,11 @@
-train: D:/multiqr-hackaton/src/datasets/QR_DS/train_images
-val: D:/multiqr-hackaton/src/datasets/QR_DS/valid_images
-test: D:/multiqr-hackaton/src/datasets/QR_DS/test_images
+# Training images path
+train: /path/to/your/project/src/datasets/QR_DS/train_images/images
+
+# Validation images path
+val: /path/to/your/project/src/datasets/QR_DS/valid_images/images
+
+# Test images path
+test: /path/to/your/project/src/datasets/QR_DS/test_images/images
 
 nc: 1
 
