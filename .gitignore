@@ -1,5 +1,5 @@
 # Ignore dataset images
 
-src/datasets/QR_DS/train_images/
-src/datasets/QR_DS/valid_images/
-src/datasets/QR_DS/test_images/
+# src/datasets/QR_DS/train_images/
+# src/datasets/QR_DS/valid_images/
+# src/datasets/QR_DS/test_images/
