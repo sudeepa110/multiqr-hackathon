@@ -26,7 +26,7 @@ multiqr-hackathon/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sudeepa110/multiqr-hackathon.git
 cd multiqr-hackathon
 ```
 
