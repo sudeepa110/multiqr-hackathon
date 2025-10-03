@@ -1,0 +1,2142 @@
+[
+  {
+    "image_id": "img201.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1272,
+          1645,
+          1490,
+          1833
+        ],
+        "value": "5a0S2Y02",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img203.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1392,
+          2673,
+          1667,
+          2918
+        ],
+        "value": "5a0S6E03",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          791,
+          2275,
+          1026,
+          2505
+        ],
+        "value": "5a0SHD01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          568,
+          2759,
+          855,
+          3068
+        ],
+        "value": "5a0QP30V",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1226,
+          1693,
+          1420,
+          1894
+        ],
+        "value": "5a0Pqr0T",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1537,
+          1585,
+          1749,
+          1822
+        ],
+        "value": "5a0Pqr0S",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          656,
+          1612,
+          857,
+          1804
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img202.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2054,
+          569,
+          2339,
+          836
+        ],
+        "value": "5a0Pqh06",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img204.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          201,
+          1970,
+          433,
+          2185
+        ],
+        "value": "5a0SHE01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1749,
+          2383,
+          1953,
+          2571
+        ],
+        "value": "5a0PMR0V",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          777,
+          1456,
+          959,
+          1646
+        ],
+        "value": "5a0S2802",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          877,
+          2101,
+          1104,
+          2338
+        ],
+        "value": "5a0QP30V",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1363,
+          1100,
+          1588,
+          1278
+        ],
+        "value": "5a0Qnu0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1747,
+          2387,
+          2045,
+          2570
+        ],
+        "value": "5a0PMR0V",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img215.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1465,
+          1826,
+          1733,
+          2042
+        ],
+        "value": "5a0Qnu0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1624,
+          997,
+          1799,
+          1168
+        ],
+        "value": "5a0QP30V",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          612,
+          1958,
+          796,
+          2121
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          806,
+          1015,
+          997,
+          1193
+        ],
+        "value": "5a0PdO0G",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img225.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2436,
+          1961,
+          2670,
+          2186
+        ],
+        "value": "5a0Rq507",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1246,
+          936,
+          1444,
+          1120
+        ],
+        "value": "5a0RHc0F",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1508,
+          1850,
+          1722,
+          2051
+        ],
+        "value": "5a0Rrt0H",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2407,
+          708,
+          2631,
+          938
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img223.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          697,
+          2076,
+          880,
+          2231
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1914,
+          1991,
+          2060,
+          2121
+        ],
+        "value": "5a0Pwr11",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1491,
+          1149,
+          1633,
+          1279
+        ],
+        "value": "5a0RyQ03",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img222.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1267,
+          1806,
+          1394,
+          1925
+        ],
+        "value": "5a0Pet0G",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1031,
+          476,
+          1150,
+          586
+        ],
+        "value": "5a0S220A",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1878,
+          961,
+          2010,
+          1091
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1164,
+          984,
+          1286,
+          1097
+        ],
+        "value": "4j1V3A03",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1162,
+          984,
+          1295,
+          1142
+        ],
+        "value": "4j1V3A03",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img210.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1926,
+          1371,
+          2076,
+          1514
+        ],
+        "value": "5a0QRb0M",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1802,
+          2750,
+          1983,
+          2929
+        ],
+        "value": "5a0Rq405",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          398,
+          1618,
+          575,
+          1780
+        ],
+        "value": "5a0QZi0d",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          941,
+          1979,
+          1166,
+          2160
+        ],
+        "value": "5a0QP30V",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          456,
+          2914,
+          730,
+          3148
+        ],
+        "value": "5a0Qnu0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1295,
+          1029,
+          1472,
+          1174
+        ],
+        "value": "5a0QLB1o",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1464,
+          1492,
+          1638,
+          1649
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img212.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1205,
+          1815,
+          1409,
+          2000
+        ],
+        "value": "5a0QRb0M",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          407,
+          1819,
+          576,
+          1955
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img207.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          663,
+          2877,
+          896,
+          3100
+        ],
+        "value": "5a0SF601",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          135,
+          2676,
+          361,
+          2877
+        ],
+        "value": "5a0S0G07",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1742,
+          2166,
+          1983,
+          2395
+        ],
+        "value": "5a0SEm01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          883,
+          1950,
+          1049,
+          2105
+        ],
+        "value": "5a0S5j07",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img213.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          781,
+          2210,
+          1026,
+          2451
+        ],
+        "value": "5a0S2802",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img206.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          636,
+          1393,
+          807,
+          1556
+        ],
+        "value": "5a0SD108",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          663,
+          2338,
+          938,
+          2624
+        ],
+        "value": "5a0PvH0O",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1094,
+          904,
+          1278,
+          1097
+        ],
+        "value": "5a0S0G07",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1259,
+          1686,
+          1501,
+          1877
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img211.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          773,
+          1689,
+          1062,
+          1961
+        ],
+        "value": "5a0QLB1o",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img224.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          987,
+          1847,
+          1188,
+          1986
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img221.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          834,
+          1103,
+          984,
+          1239
+        ],
+        "value": "4j1V3A03",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1172,
+          2144,
+          1307,
+          2280
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          667,
+          455,
+          843,
+          622
+        ],
+        "value": "5a0S220A",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1652,
+          819,
+          1826,
+          976
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1647,
+          811,
+          1849,
+          1038
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img219.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2030,
+          903,
+          2209,
+          1070
+        ],
+        "value": "5a0LpC0P",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1234,
+          746,
+          1390,
+          905
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2432,
+          1380,
+          2560,
+          1499
+        ],
+        "value": "5a0RyQ03",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1828,
+          285,
+          1959,
+          408
+        ],
+        "value": "5a0Pwr11",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1181,
+          1727,
+          1355,
+          1900
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img216.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2047,
+          906,
+          2273,
+          1120
+        ],
+        "value": "5a0RyD0G",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img205.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1364,
+          2272,
+          1607,
+          2482
+        ],
+        "value": "5a0SF701",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          916,
+          1954,
+          1096,
+          2112
+        ],
+        "value": "5a0SF501",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          843,
+          1091,
+          1082,
+          1281
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1633,
+          1705,
+          1856,
+          1914
+        ],
+        "value": "5a0RDM06",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2158,
+          96,
+          2296,
+          208
+        ],
+        "value": "5a0Pft0P",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img208.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1747,
+          2041,
+          1988,
+          2277
+        ],
+        "value": "5a0QRb0M",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          355,
+          2107,
+          611,
+          2295
+        ],
+        "value": "5a0RCY0A",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          732,
+          2563,
+          934,
+          2769
+        ],
+        "value": "5a0NAI0O",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          781,
+          1319,
+          1003,
+          1562
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img209.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1802,
+          1267,
+          1952,
+          1412
+        ],
+        "value": "5a0QRb0M",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          709,
+          1762,
+          945,
+          1985
+        ],
+        "value": "5a0QP30V",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          884,
+          1153,
+          1039,
+          1302
+        ],
+        "value": "5a0QZi0d",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          513,
+          2632,
+          779,
+          2852
+        ],
+        "value": "5a0Qnu0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1833,
+          2613,
+          2054,
+          2816
+        ],
+        "value": "5a0Rq405",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img220.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          927,
+          249,
+          1059,
+          376
+        ],
+        "value": "5a0RlO0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1574,
+          171,
+          1705,
+          298
+        ],
+        "value": "5a0RlO0G",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1247,
+          212,
+          1374,
+          337
+        ],
+        "value": "5a0RlO0F",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2161,
+          1340,
+          2305,
+          1474
+        ],
+        "value": "5a0SJY02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1448,
+          1389,
+          1596,
+          1531
+        ],
+        "value": "5a0QyU0n",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          646,
+          1384,
+          890,
+          1528
+        ],
+        "value": "5a0QyU0o",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img214.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          533,
+          2816,
+          750,
+          3029
+        ],
+        "value": "5a0S2802",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          520,
+          1731,
+          715,
+          1937
+        ],
+        "value": "5a0Pfp09",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1190,
+          2005,
+          1356,
+          2172
+        ],
+        "value": "5a0Rze02",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1293,
+          1442,
+          1511,
+          1627
+        ],
+        "value": "5a0QLB1o",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          512,
+          1733,
+          748,
+          2003
+        ],
+        "value": "5a0Pfp09",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img218.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          477,
+          2475,
+          688,
+          2682
+        ],
+        "value": "5a0S6v06",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          304,
+          1818,
+          449,
+          1958
+        ],
+        "value": "5a0S4B03",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1651,
+          1221,
+          1858,
+          1404
+        ],
+        "value": "5a0S5e04",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          720,
+          1349,
+          869,
+          1484
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1317,
+          2429,
+          1543,
+          2608
+        ],
+        "value": "5a0RnG0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1165,
+          1742,
+          1336,
+          1902
+        ],
+        "value": "5a0S5n03",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          487,
+          1393,
+          610,
+          1517
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img217.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1644,
+          749,
+          1783,
+          886
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          684,
+          1897,
+          848,
+          2041
+        ],
+        "value": "5a0Pdq0T",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          635,
+          604,
+          804,
+          768
+        ],
+        "value": "5a0QZ60G",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1770,
+          1833,
+          1922,
+          1975
+        ],
+        "value": "5a0N1l12",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img232.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          466,
+          2430,
+          638,
+          2599
+        ],
+        "value": "5a0PtX0M",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1635,
+          2180,
+          1853,
+          2366
+        ],
+        "value": "5a0SIk02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          620,
+          1421,
+          772,
+          1576
+        ],
+        "value": "5a0SEs01",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img227.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2684,
+          1574,
+          2947,
+          1802
+        ],
+        "value": "5a0SFK02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1186,
+          875,
+          1362,
+          1055
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2466,
+          362,
+          2675,
+          559
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1515,
+          1845,
+          1699,
+          2019
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img240.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1723,
+          2228,
+          1922,
+          2412
+        ],
+        "value": "5a0RrO09",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          697,
+          1415,
+          882,
+          1586
+        ],
+        "value": "5a0Rqf02",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1446,
+          1618,
+          1638,
+          1791
+        ],
+        "value": "5a0Rqm02",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img229.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1499,
+          758,
+          1694,
+          935
+        ],
+        "value": "5a0SEp01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          2518,
+          1542,
+          2762,
+          1760
+        ],
+        "value": "5a0SIk02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1030,
+          1072,
+          1233,
+          1255
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          0,
+          2040,
+          90,
+          2225
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img235.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          335,
+          2402,
+          517,
+          2549
+        ],
+        "value": "5a0S2f0C",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1084,
+          1759,
+          1272,
+          1954
+        ],
+        "value": "5a0S2n04",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1126,
+          1288,
+          1298,
+          1475
+        ],
+        "value": "5a0PlH19",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img242.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          615,
+          1613,
+          825,
+          1803
+        ],
+        "value": "5a0RrO09",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          625,
+          2066,
+          874,
+          2311
+        ],
+        "value": "5a0Rqf02",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img237.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2861,
+          2574,
+          3078,
+          2810
+        ],
+        "value": "5a0RdA0A",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1856,
+          801,
+          2017,
+          952
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2339,
+          1370,
+          2507,
+          1531
+        ],
+        "value": "5a0S2q0D",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          930,
+          2590,
+          1102,
+          2781
+        ],
+        "value": "5a0N0R0l",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1745,
+          2348,
+          1953,
+          2547
+        ],
+        "value": "5a0S2p04",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img233.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1859,
+          814,
+          2102,
+          1028
+        ],
+        "value": "5a0RTm08",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1485,
+          1700,
+          1692,
+          1908
+        ],
+        "value": "5a0SEn01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1032,
+          399,
+          1225,
+          573
+        ],
+        "value": "5a0SEq01",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img226.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2423,
+          1963,
+          2658,
+          2190
+        ],
+        "value": "5a0Rq507",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1493,
+          1858,
+          1694,
+          2054
+        ],
+        "value": "5a0Rrt0H",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1214,
+          921,
+          1422,
+          1109
+        ],
+        "value": "5a0RHc0F",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2402,
+          678,
+          2630,
+          922
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img238.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1251,
+          717,
+          1626,
+          1065
+        ],
+        "value": "5a0RS60A",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img231.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1685,
+          1652,
+          1881,
+          1839
+        ],
+        "value": "5a0SEp01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          416,
+          1323,
+          618,
+          1492
+        ],
+        "value": "5a0SEs01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1234,
+          1006,
+          1509,
+          1249
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          701,
+          1545,
+          896,
+          1722
+        ],
+        "value": "5a0S2l07",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          685,
+          2163,
+          882,
+          2344
+        ],
+        "value": "5a0SIk02",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img241.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          998,
+          2136,
+          1264,
+          2370
+        ],
+        "value": "5a0S2r0I",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1511,
+          506,
+          1666,
+          656
+        ],
+        "value": "5a0S2s0B",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          2212,
+          1203,
+          2376,
+          1363
+        ],
+        "value": "5a0S2y05",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          3513,
+          1415,
+          3721,
+          1605
+        ],
+        "value": "5a0Pp30B",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2523,
+          2154,
+          2722,
+          2334
+        ],
+        "value": "5a0Rns0X",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img234.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1377,
+          632,
+          1557,
+          807
+        ],
+        "value": "5a0SEq01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1808,
+          805,
+          1986,
+          998
+        ],
+        "value": "5a0SEn01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1996,
+          1471,
+          2161,
+          1646
+        ],
+        "value": "5a0SEr01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          950,
+          1207,
+          1074,
+          1334
+        ],
+        "value": "5a0SEo01",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img230.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1419,
+          1531,
+          1702,
+          1783
+        ],
+        "value": "5a0RhF0C",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1173,
+          1780,
+          1443,
+          2034
+        ],
+        "value": "5a0RhF0B",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1005,
+          3352,
+          1252,
+          3593
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2329,
+          1918,
+          2486,
+          2085
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1416,
+          680,
+          1595,
+          854
+        ],
+        "value": "5a0RYU0O",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2224,
+          3195,
+          2461,
+          3439
+        ],
+        "value": "5a0RkD0B",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img228.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2656,
+          1674,
+          2937,
+          1909
+        ],
+        "value": "5a0SFK02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1439,
+          1938,
+          1634,
+          2118
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2452,
+          371,
+          2685,
+          586
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1101,
+          923,
+          1294,
+          1108
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img236.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          858,
+          2317,
+          1032,
+          2502
+        ],
+        "value": "5a0N0R0l",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1542,
+          501,
+          1706,
+          654
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2068,
+          997,
+          2233,
+          1169
+        ],
+        "value": "5a0S2q0D",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1615,
+          1973,
+          1830,
+          2185
+        ],
+        "value": "5a0S2p04",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img239.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1119,
+          2383,
+          1626,
+          2880
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          931,
+          2284,
+          1624,
+          3004
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img245.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2353,
+          610,
+          2525,
+          786
+        ],
+        "value": "5a0SG607",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1001,
+          829,
+          1164,
+          975
+        ],
+        "value": "5a0RrO09",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1430,
+          645,
+          1588,
+          804
+        ],
+        "value": "5a0Rqf02",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2451,
+          1493,
+          2609,
+          1661
+        ],
+        "value": "5a0RrV0C",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2711,
+          1339,
+          2858,
+          1484
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1827,
+          1368,
+          1968,
+          1503
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img249.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2471,
+          867,
+          2675,
+          1036
+        ],
+        "value": "5a0SJB02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1754,
+          970,
+          1948,
+          1171
+        ],
+        "value": "5a0Rqf02",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1594,
+          1559,
+          1770,
+          1718
+        ],
+        "value": "5a0SHG01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1250,
+          1014,
+          1415,
+          1191
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img243.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2969,
+          1232,
+          3415,
+          1664
+        ],
+        "value": "5a0PyQ0G",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          755,
+          888,
+          1226,
+          1312
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img248.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2154,
+          1619,
+          2452,
+          1865
+        ],
+        "value": "5a0SHG01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1779,
+          719,
+          1994,
+          964
+        ],
+        "value": "5a0Rqf02",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2534,
+          680,
+          2769,
+          905
+        ],
+        "value": "5a0SJB02",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img244.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1875,
+          1323,
+          2063,
+          1506
+        ],
+        "value": "5a0SG607",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          2200,
+          406,
+          2376,
+          585
+        ],
+        "value": "5a0RrU0A",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          886,
+          1757,
+          1058,
+          1931
+        ],
+        "value": "5a0RrO09",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img250.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2560,
+          932,
+          2772,
+          1109
+        ],
+        "value": "5a0SJB02",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1674,
+          1602,
+          1860,
+          1774
+        ],
+        "value": "5a0SHG01",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1834,
+          1024,
+          2034,
+          1220
+        ],
+        "value": "5a0Rqf02",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          1336,
+          1059,
+          1505,
+          1234
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          77,
+          299,
+          221,
+          451
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "image_id": "img246.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1724,
+          1683,
+          1875,
+          1811
+        ],
+        "value": "5a0SG607",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          680,
+          2198,
+          904,
+          2430
+        ],
+        "value": "5a0RrK0E",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          966,
+          1100,
+          1154,
+          1300
+        ],
+        "value": "5a0SJA01",
+        "type": "batch"
+      }
+    ]
+  },
+  {
+    "image_id": "img247.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1126,
+          2433,
+          1329,
+          2640
+        ],
+        "value": "5a0SBZ0D",
+        "type": "batch"
+      },
+      {
+        "bbox": [
+          1853,
+          1951,
+          2038,
+          2147
+        ],
+        "value": "5a0RSF07",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          841,
+          600,
+          1012,
+          747
+        ],
+        "value": "unknown",
+        "type": "unknown"
+      },
+      {
+        "bbox": [
+          2896,
+          1730,
+          3121,
+          1960
+        ],
+        "value": "5a0RPF0U",
+        "type": "unknown"
+      }
+    ]
+  }
+]
